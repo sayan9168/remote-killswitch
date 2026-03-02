@@ -3,12 +3,12 @@ import time
 
 # 1. URL of your remote JSON config file (e.g., GitHub Gist raw URL)
 # The file should contain: {"status": "active", "message": "..."}
-MY_CONTROL_LINK = "https://gist.githubusercontent.com/sayan9168/YOUR_GIST_ID/raw/status.json"
+MY_CONTROL_LINK = ""
 
 # 2. Initialize the KillSwitch
 guardian = KillSwitch(
     config_url=MY_CONTROL_LINK, 
-    developer_email="sayan@example.com"
+    developer_email="sm6881164@gmail.com"
 )
 
 def main():
