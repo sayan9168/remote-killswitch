@@ -3,7 +3,7 @@ import time
 
 # 1. URL of your remote JSON config file (e.g., GitHub Gist raw URL)
 # The file should contain: {"status": "active", "message": "..."}
-MY_CONTROL_LINK = ""
+MY_CONTROL_LINK = "https://gist.githubusercontent.com/sayan9168/269e8a32c214ea9d3b1b998432034898/raw/0b1a904ecb33bf207ed83bab82279328bf99f379/status.json"
 
 # 2. Initialize the KillSwitch
 guardian = KillSwitch(
