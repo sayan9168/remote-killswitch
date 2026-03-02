@@ -11,8 +11,8 @@ class KillSwitch:
         """
         Initializes the KillSwitch with the remote config URL and developer email.
         """
-        self.config_url = config_url
-        self.developer_email = developer_email
+        self.config_url = https://gist.githubusercontent.com/sayan9168/269e8a32c214ea9d3b1b998432034898/raw/0b1a904ecb33bf207ed83bab82279328bf99f379/status.json
+        self.developer_email = sm6881164@gmail.com
 
     def check_status(self):
         """
