@@ -1,4 +1,20 @@
 {
   "status": "active",
-  "message": "Project access has been revoked."
+  "message": "All systems operational",
+  "allowed_versions": ["1.0.0", "1.1.0", "2.0.0"],
+  "maintenance_mode": false,
+  "features": {
+    "premium_feature": true,
+    "beta_feature": false,
+    "experimental_api": true,
+    "dark_mode": true
+  },
+  "announcements": [
+    {
+      "title": "New Version Available",
+      "content": "Version 2.0.0 is now available with improved performance.",
+      "priority": "high"
+    }
+  ],
+  "last_updated": "2025-01-15T10:30:00Z"
 }
